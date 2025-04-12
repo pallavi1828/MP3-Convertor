@@ -3,17 +3,9 @@ This project is a front-end UI design for a Spotify to MP3 Converter built using
 
 
  ![Image Alt](
-https://github.com/pallavi1828/MP3-Convertor/blob/1fb6079a9b798ef1a33c92f1940c463ec123f725/Screenshot%20(32).png                                             
-
-
-
-
+https://github.com/pallavi1828/MP3-Convertor/blob/1fb6079a9b798ef1a33c92f1940c463ec123f725/Screenshot%20(32).png 
 )
 
   ![Image Alt](
-https://github.com/pallavi1828/MP3-Convertor/blob/1fb6079a9b798ef1a33c92f1940c463ec123f725/Screenshot%20(33).png                                             
-
-
-
-
+https://github.com/pallavi1828/MP3-Convertor/blob/1fb6079a9b798ef1a33c92f1940c463ec123f725/Screenshot%20(33).png
 )
